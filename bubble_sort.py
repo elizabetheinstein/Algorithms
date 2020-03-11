@@ -1,4 +1,4 @@
-def bubbleSort(array):
+def bubble_sort(array):
     sorted = False
     
     while not sorted:

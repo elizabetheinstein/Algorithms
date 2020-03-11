@@ -1,4 +1,4 @@
-def insertionSort(array): 
+def insertion_sort(array): 
     for i in range(1, len(array)):
         j = i
         while j > 0 and array[j] < array[j - 1]:
