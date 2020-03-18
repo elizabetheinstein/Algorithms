@@ -18,3 +18,5 @@ Array Methods:
 Binary Search Trees:
 1. Tree traversal
 2. Find closest value
+3. BST construction
+4. Validate BST
