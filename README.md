@@ -20,3 +20,4 @@ Binary Search Trees:
 2. Find closest value
 3. BST construction
 4. Validate BST
+5. Same BST
