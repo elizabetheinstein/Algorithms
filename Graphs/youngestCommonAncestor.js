@@ -1,4 +1,9 @@
-
+class AncestralTree {
+    constructor(name) {
+        this.name = name
+        this.ancestor = null
+    }
+}
 
 const youngestCommonAncestor = (topAncestor, descendantOne, descendantTwo) => {
     const depthOne = getDepth(descendantOne, topAncestor)
