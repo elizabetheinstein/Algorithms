@@ -1,3 +1,5 @@
+
+
 const youngestCommonAncestor = (topAncestor, descendantOne, descendantTwo) => {
     const depthOne = getDepth(descendantOne, topAncestor)
     const depthTwo = getDepth(descendantTwo, topAncestor)
