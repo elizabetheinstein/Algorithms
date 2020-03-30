@@ -21,3 +21,13 @@ Binary Search Trees:
 3. BST construction
 4. Validate BST
 5. Same BST
+
+Graphs:
+1. River sizes
+2. Word ladder
+3. Youngest common ancestor
+
+Linked Lists:
+1. Linked list constructtion
+2. Remove kth node from end
+3. Merge two linked lists
