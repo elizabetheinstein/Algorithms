@@ -47,6 +47,7 @@ LeetCode 30 Day Challenge:
 1. [Single number](https://leetcode.com/problems/single-number/)
 2. [Happy number](https://leetcode.com/problems/happy-number/)
 3. [Max subarray](https://leetcode.com/problems/maximum-subarray/)
+4. [Move zeroes](https://leetcode.com/problems/move-zeroes/)
 
 Pramp:
 1. [Get cheapest cost](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XqA)
