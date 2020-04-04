@@ -13,7 +13,7 @@ Array Methods:
 1. [Two Number Sum (AlgoExpert)](https://www.algoexpert.io/questions/Two%20Number%20Sums)
 2. [Two Number Sum (LeetCode)](https://leetcode.com/problems/two-sum)
 3. [Find minimum rewards (AlgoExpert)](https://www.algoexpert.io/questions/Min%20Rewards)
-4. [Move element to end](https://www.algoexpert.io/questions/Move%20Element%20To%20End)
+4. [Move element to end (AlgoExpert)](https://www.algoexpert.io/questions/Move%20Element%20To%20End)
 5. [Smallest difference (AlgoExpert)](https://www.algoexpert.io/questions/Smallest%20Difference)
 6. [Three number sum (AlgoExpert)](https://www.algoexpert.io/questions/Three%20Number%20Sum)
 7. [Subarray sort (AlgoExpert)](https://www.algoexpert.io/questions/Subarray%20Sort)
