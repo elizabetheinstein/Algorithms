@@ -1,6 +1,7 @@
 # Algorithms
 
-Practicing Algorithms in JavaScript and Python
+### Problems have been sourced from algoexpert.io and leetcode.com.
+### Solutions are written in JavaScript and Python and organized by category.
 
 Sorting Algorithms:
 1. [Bubble Sort (AlgoExpert)](https://www.algoexpert.io/questions/Bubble%20Sort)
