@@ -4,15 +4,15 @@
 ### Solutions are written in JavaScript and Python and organized by category.
 
 Sorting Algorithms:
-1. [Bubble Sort (AlgoExpert)](https://www.algoexpert.io/questions/Bubble%20Sort)
-2. [Insertion Sort (AlgoExpert)](https://www.algoexpert.io/questions/Insertion%20Sort)
-3. [Quick Sort (AlgoExpert)](https://www.algoexpert.io/questions/Quick%20Sort)
-4. [Selection Sort (AlgoExpert)](https://www.algoexpert.io/questions/Selection%20Sort)
-5. [Merge Sort (AlgoExpert)](https://www.algoexpert.io/questions/Merge%20Sort)
+1. [Bubble sort (AlgoExpert)](https://www.algoexpert.io/questions/Bubble%20Sort)
+2. [Insertion sort (AlgoExpert)](https://www.algoexpert.io/questions/Insertion%20Sort)
+3. [Quick sort (AlgoExpert)](https://www.algoexpert.io/questions/Quick%20Sort)
+4. [Selection sort (AlgoExpert)](https://www.algoexpert.io/questions/Selection%20Sort)
+5. [Merge sort (AlgoExpert)](https://www.algoexpert.io/questions/Merge%20Sort)
 
 Array Methods:
-1. [Two Number Sum (AlgoExpert)](https://www.algoexpert.io/questions/Two%20Number%20Sums)
-2. [Two Number Sum (LeetCode)](https://leetcode.com/problems/two-sum)
+1. [Two number sum (AlgoExpert)](https://www.algoexpert.io/questions/Two%20Number%20Sums)
+2. [Two number sum (LeetCode)](https://leetcode.com/problems/two-sum)
 3. [Find minimum rewards (AlgoExpert)](https://www.algoexpert.io/questions/Min%20Rewards)
 4. [Move element to end (AlgoExpert)](https://www.algoexpert.io/questions/Move%20Element%20To%20End)
 5. [Smallest difference (AlgoExpert)](https://www.algoexpert.io/questions/Smallest%20Difference)
@@ -44,6 +44,11 @@ Linked Lists:
 5. [Merge two linked lists (AlgoExpert)](https://www.algoexpert.io/questions/Merge%20Linked%20Lists)
 
 LeetCode 30 Day Challenge:
-1. [Single Number](https://leetcode.com/problems/single-number/)
-2. [Happy Number](https://leetcode.com/problems/happy-number/)
-3. [Max Subarray](https://leetcode.com/problems/maximum-subarray/)
+1. [Single number](https://leetcode.com/problems/single-number/)
+2. [Happy number](https://leetcode.com/problems/happy-number/)
+3. [Max subarray](https://leetcode.com/problems/maximum-subarray/)
+
+Pramp:
+1. [Get cheapest cost](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XqA)
+2. [Find nth root](https://www.pramp.com/challenge/jKoA5GAVy9Sr9jGBjzN4)
+3. [Bracket match](https://www.pramp.com/challenge/xJZA01AxdlfpM2vZ2Wwa)
