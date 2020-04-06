@@ -43,6 +43,11 @@ Linked Lists:
 4. [Merge two linked lists (LeetCode)](https://leetcode.com/problems/merge-two-sorted-lists/)
 5. [Merge two linked lists (AlgoExpert)](https://www.algoexpert.io/questions/Merge%20Linked%20Lists)
 
+Recursion:
+1. [Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
+2. [Product Sum](https://www.algoexpert.io/questions/Product%20Sum)
+3. [Permutation](https://www.algoexpert.io/questions/Permutations)
+
 LeetCode 30 Day Challenge:
 1. [Single number](https://leetcode.com/problems/single-number/)
 2. [Happy number](https://leetcode.com/problems/happy-number/)
