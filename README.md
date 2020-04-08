@@ -1,7 +1,6 @@
 # Algorithms
 
-### Problems have been sourced from algoexpert.io and leetcode.com.
-### Solutions are written in JavaScript and Python and organized by category.
+**Problems have been sourced from algoexpert.io and leetcode.com. Solutions are written in JavaScript and Python and organized by category.**
 
 Sorting Algorithms:
 1. [Bubble sort (AlgoExpert)](https://www.algoexpert.io/questions/Bubble%20Sort)
