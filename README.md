@@ -1,4 +1,4 @@
-# Algorithms
+# Data Structures and Algorithms
 
 **Problems have been sourced from algoexpert.io and leetcode.com. Solutions are written in JavaScript and Python and organized by category.**
 
