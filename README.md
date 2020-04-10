@@ -55,6 +55,7 @@ LeetCode 30 Day Challenge:
 3. [Max subarray](https://leetcode.com/problems/maximum-subarray/)
 4. [Move zeroes](https://leetcode.com/problems/move-zeroes/)
 5. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+6. [Group anagrams](https://leetcode.com/problems/group-anagrams)
 
 Pramp:
 1. [Get cheapest cost](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XqA)
