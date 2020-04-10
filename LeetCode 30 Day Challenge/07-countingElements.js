@@ -1,5 +1,4 @@
 const countElements = (arr) => {
-    arr.sort((a,b) => a - b)
     let count = 0
     let map = {}
     for (const num of arr) {
