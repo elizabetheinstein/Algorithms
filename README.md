@@ -59,6 +59,8 @@ LeetCode 30 Day Challenge:
 4. [Move zeroes](https://leetcode.com/problems/move-zeroes/)
 5. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 6. [Group anagrams](https://leetcode.com/problems/group-anagrams)
+7. [Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
+8. [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 
 Pramp:
 1. [Get cheapest cost](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XqA)
