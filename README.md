@@ -62,6 +62,7 @@ LeetCode 30 Day Challenge:
 7. [Counting elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
 8. [Middle of linked list](https://leetcode.com/problems/middle-of-the-linked-list)
 9. [Backspace string compare](https://leetcode.com/problems/backspace-string-compare)
+10. [Min stack](https://leetcode.com/problems/min-stack)
 
 Pramp:
 1. [Get cheapest cost](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XqA)
