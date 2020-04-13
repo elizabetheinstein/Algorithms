@@ -43,11 +43,14 @@ Linked Lists:
 5. [Merge two linked lists (AlgoExpert)](https://www.algoexpert.io/questions/Merge%20Linked%20Lists)
 
 Recursion:
-1. [Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
-2. [Product Sum](https://www.algoexpert.io/questions/Product%20Sum)
-3. [Permutation](https://www.algoexpert.io/questions/Permutations)
-4. [Lowest common manager](https://www.algoexpert.io/questions/Lowest%20Common%20Manager)
-5. [Interweaving strings](https://www.algoexpert.io/questions/Interweaving%20Strings)
+1. [Nth Fibonacci (AlgoExpert)](https://www.algoexpert.io/questions/Nth%20Fibonacci)
+2. [Product sum (AlgoExpert)](https://www.algoexpert.io/questions/Product%20Sum)
+3. [Permutation (AlgoExpert)](https://www.algoexpert.io/questions/Permutations)
+4. [Lowest common manager (AlgoExpert)](https://www.algoexpert.io/questions/Lowest%20Common%20Manager)
+5. [Interweaving strings (AlgoExpert)](https://www.algoexpert.io/questions/Interweaving%20Strings)
+
+Dynamic Programming:
+1. [Max subset sum no adjacent (AlgoExpert)](https://www.algoexpert.io/questions/Max%20Subset%20Sum%20No%20Adjacent)
 
 LeetCode 30 Day Challenge:
 1. [Single number](https://leetcode.com/problems/single-number/)
