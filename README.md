@@ -31,7 +31,7 @@ Graphs:
 2. [Has single cycle (AlgoExpert)](https://www.algoexpert.io/questions/Single%20Cycle%20Check)
 2. [Breadth-first search (AlgoExpert)](https://www.algoexpert.io/questions/Breadth-first%20Search)
 3. [River sizes (AlgoExpert)](https://www.algoexpert.io/questions/River%20Sizes)
-4. [Word ladder (LeetCode)](https://leetcode.com/problems/word-ladder/)
+4. [Word ladder (LeetCode)](https://leetcode.com/problems/word-ladder)
 5. [Youngest common ancestor (AlgoExpert)](https://www.algoexpert.io/questions/Youngest%20Common%20Ancestor)
 6. [Boggle board (AlgoExpert)](https://www.algoexpert.io/questions/Boggle%20Board)
 
@@ -53,16 +53,17 @@ Dynamic Programming:
 1. [Max subset sum no adjacent (AlgoExpert)](https://www.algoexpert.io/questions/Max%20Subset%20Sum%20No%20Adjacent)
 
 LeetCode 30 Day Challenge:
-1. [Single number](https://leetcode.com/problems/single-number/)
-2. [Happy number](https://leetcode.com/problems/happy-number/)
-3. [Max subarray](https://leetcode.com/problems/maximum-subarray/)
-4. [Move zeroes](https://leetcode.com/problems/move-zeroes/)
-5. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+1. [Single number](https://leetcode.com/problems/single-number)
+2. [Happy number](https://leetcode.com/problems/happy-number)
+3. [Max subarray](https://leetcode.com/problems/maximum-subarray)
+4. [Move zeroes](https://leetcode.com/problems/move-zeroes)
+5. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
 6. [Group anagrams](https://leetcode.com/problems/group-anagrams)
 7. [Counting elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
 8. [Middle of linked list](https://leetcode.com/problems/middle-of-the-linked-list)
 9. [Backspace string compare](https://leetcode.com/problems/backspace-string-compare)
 10. [Min stack](https://leetcode.com/problems/min-stack)
+11. [Diameter of binary tree](https://leetcode.com/problems/diameter-of-binary-tree)
 
 Pramp:
 1. [Get cheapest cost](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XqA)
