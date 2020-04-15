@@ -6,7 +6,7 @@ const numberOfWaysToMakeChange = (n, denoms) => {
         let amount = 1
 		while (amount <= n) {
 			if (denom <= amount) {
-			  ways[amount] += ways [amount - denom]
+			  ways[amount] += ways[amount - denom]
             }
             amount++
 		}
