@@ -1,3 +1,4 @@
+#implemented with heap (priority queue)
 import heapq
 
 class Solution(object):
