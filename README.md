@@ -67,6 +67,7 @@ LeetCode 30 Day Challenge:
 10. [Min stack](https://leetcode.com/problems/min-stack/)
 11. [Diameter of binary tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 12. [Last stone weight](https://leetcode.com/problems/last-stone-weight/)
+13. [Contiguous array](https://leetcode.com/problems/contiguous-array/)
 
 Pramp:
 1. [Get cheapest cost](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XqA)
