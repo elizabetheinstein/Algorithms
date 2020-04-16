@@ -52,7 +52,8 @@ Recursion:
 Dynamic Programming:
 1. [Max subset sum no adjacent (AlgoExpert)](https://www.algoexpert.io/questions/Max%20Subset%20Sum%20No%20Adjacent/)
 2. [Number of ways to make change (AlgoExpert](https://www.algoexpert.io/questions/Number%20Of%20Ways%20To%20Make%20Change/)
-3. [Coin Change (AlgoExpert)](https://www.algoexpert.io/questions/Min%20Number%20Of%20Coins%20For%20Change)[/LeetCode)](https://leetcode.com/problems/coin-change)
+3. [Coin Change (AlgoExpert)](https://www.algoexpert.io/questions/Min%20Number%20Of%20Coins%20For%20Change/)[/LeetCode)](https://leetcode.com/problems/coin-change/)
+4. [Levenshtein distance (AlgoExpert)](https://www.algoexpert.io/questions/Levenshtein%20Distance/)
 
 LeetCode 30 Day Challenge:
 1. [Single number](https://leetcode.com/problems/single-number/)
