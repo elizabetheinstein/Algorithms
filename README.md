@@ -56,7 +56,7 @@ Dynamic Programming:
 4. [Levenshtein distance (AlgoExpert)](https://www.algoexpert.io/questions/Levenshtein%20Distance/)
 
 Binary Trees:
-1. [Branch sums]()
+1. [Branch sums](https://www.algoexpert.io/questions/Branch%20Sums)
 2. [Invert binary tree](https://www.algoexpert.io/questions/Invert%20Binary%20Tree)
 
 LeetCode 30 Day Challenge:
