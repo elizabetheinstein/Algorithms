@@ -58,6 +58,7 @@ Dynamic Programming:
 Binary Trees:
 1. [Branch sums](https://www.algoexpert.io/questions/Branch%20Sums)
 2. [Invert binary tree](https://www.algoexpert.io/questions/Invert%20Binary%20Tree)
+3. [Max path in binary tree](https://www.algoexpert.io/questions/Max%20Path%20Sum%20In%20Binary%20Tree)
 
 LeetCode 30 Day Challenge:
 1. [Single number](https://leetcode.com/problems/single-number/)
