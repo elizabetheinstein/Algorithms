@@ -60,6 +60,7 @@ Binary Trees:
 2. [Invert binary tree](https://www.algoexpert.io/questions/Invert%20Binary%20Tree)
 3. [Max path in binary tree](https://www.algoexpert.io/questions/Max%20Path%20Sum%20In%20Binary%20Tree)
 4. [Iterative in order traversal](https://www.algoexpert.io/questions/Iterative%20In-order%20Traversal)
+5. [Flatten binary tree](https://www.algoexpert.io/questions/Flatten%20Binary%20Tree)
 
 LeetCode 30 Day Challenge:
 1. [Single number](https://leetcode.com/problems/single-number/)
