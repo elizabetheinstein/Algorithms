@@ -56,11 +56,17 @@ Dynamic Programming:
 4. [Levenshtein distance (AlgoExpert)](https://www.algoexpert.io/questions/Levenshtein%20Distance/)
 
 Binary Trees:
-1. [Branch sums](https://www.algoexpert.io/questions/Branch%20Sums)
-2. [Invert binary tree](https://www.algoexpert.io/questions/Invert%20Binary%20Tree)
-3. [Max path in binary tree](https://www.algoexpert.io/questions/Max%20Path%20Sum%20In%20Binary%20Tree)
-4. [Iterative in order traversal](https://www.algoexpert.io/questions/Iterative%20In-order%20Traversal)
-5. [Flatten binary tree](https://www.algoexpert.io/questions/Flatten%20Binary%20Tree)
+1. [Branch sums (AlgoExpert)](https://www.algoexpert.io/questions/Branch%20Sums)
+2. [Invert binary tree (AlgoExpert)](https://www.algoexpert.io/questions/Invert%20Binary%20Tree)
+3. [Max path in binary tree (AlgoExpert)](https://www.algoexpert.io/questions/Max%20Path%20Sum%20In%20Binary%20Tree)
+4. [Iterative in order traversal (AlgoExpert)](https://www.algoexpert.io/questions/Iterative%20In-order%20Traversal)
+5. [Flatten binary tree (AlgoExpert)](https://www.algoexpert.io/questions/Flatten%20Binary%20Tree)
+
+Strings:
+1. [Roman to integer (LeetCode)](https://leetcode.com/problems/roman-to-integer/)
+2. [Check palindrome (AlgoExpert)](https://www.algoexpert.io/questions/Palindrome%20Check)
+3. [Caesar cipher encryptor (AlgoExpert)](https://www.algoexpert.io/questions/Caesar%20Cipher%20Encryptor)
+4. [Longest palindromic string (AlgoExpert)](https://www.algoexpert.io/questions/Longest%20Palindromic%20Substring)
 
 LeetCode 30 Day Challenge:
 1. [Single number](https://leetcode.com/problems/single-number/)
