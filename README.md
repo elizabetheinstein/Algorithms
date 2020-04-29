@@ -67,6 +67,7 @@ Strings:
 2. [Check palindrome (AlgoExpert)](https://www.algoexpert.io/questions/Palindrome%20Check)
 3. [Caesar cipher encryptor (AlgoExpert)](https://www.algoexpert.io/questions/Caesar%20Cipher%20Encryptor)
 4. [Longest palindromic string (AlgoExpert)](https://www.algoexpert.io/questions/Longest%20Palindromic%20Substring)
+5. [Longest substring no duplication (AlgoExpert)](https://www.algoexpert.io/questions/Longest%20Substring%20Without%20Duplication)
 
 LeetCode 30 Day Challenge:
 1. [Single number](https://leetcode.com/problems/single-number/)
