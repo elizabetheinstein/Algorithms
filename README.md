@@ -84,6 +84,7 @@ LeetCode 30 Day Challenge:
 11. [Diameter of binary tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 12. [Last stone weight](https://leetcode.com/problems/last-stone-weight/)
 13. [Contiguous array](https://leetcode.com/problems/contiguous-array/)
+14. [Peform string shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)
 
 Pramp:
 1. [Get cheapest cost](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XqA)
