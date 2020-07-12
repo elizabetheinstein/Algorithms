@@ -1,3 +1,7 @@
+// N is length of nums array
+// Time Complexity: O(N)
+// Space Complexity: O(1) excluding the output array
+
 const productExceptSelf = (nums) => {
     const output = new Array(nums.length).fill(1)
     let left = 1
