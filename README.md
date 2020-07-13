@@ -89,6 +89,8 @@ LeetCode 30 Day Challenge:
 16. [Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/)
 17. [Number of islands](https://leetcode.com/problems/number-of-islands/)
 18. [Min path sum](https://leetcode.com/problems/minimum-path-sum/)
+19. [Search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+22. [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 Pramp:
 1. [Get cheapest cost](https://www.pramp.com/challenge/15oxrQx6LjtQj9JK9XqA)

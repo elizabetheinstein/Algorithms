@@ -1,3 +1,8 @@
+// N is height of grid
+// M is width of grid
+// Time complexity: O(n*m)
+// Space complexity: O(1)
+
 const minPathSum = (grid) => {
     if (!grid || !grid.length) return;
     const height = grid.length;
