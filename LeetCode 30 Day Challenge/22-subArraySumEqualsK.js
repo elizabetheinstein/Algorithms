@@ -6,7 +6,7 @@ const subArraySum = (nums, k) => {
     for (let num of nums) {
         sum += num
         total += (sumMap.get(sum - k) || 0)
-        sumMap.set(sum, sumMap.get(sum) || 0 + 1)
+        sumMap.set(sum, (sumMap.get(sum) || 0) + 1)
     }
 
     return total
